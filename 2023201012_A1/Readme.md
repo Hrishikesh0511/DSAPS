@@ -1,5 +1,5 @@
 # Seam Carving Implementation
-
+## code in 2023201012_A1_Q3.cpp
 ## Overview
 
 Seam carving is a content-aware image resizing technique used to adjust the size of an image by removing or adding seams. This method preserves important content in the image, minimizing distortion compared to traditional resizing techniques.
