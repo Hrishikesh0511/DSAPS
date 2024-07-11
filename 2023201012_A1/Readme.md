@@ -18,3 +18,8 @@ This is the original image before applying seam carving:
 This is the image after applying seam carving:
 
 ![Resized Image](sample_input/surfer-resized.jpg)
+
+
+## References
+
+    Avidan, S., & Shamir, A. (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (TOG), 26(3), 10.
