@@ -19,6 +19,14 @@ This is the image after applying seam carving:
 
 ![Resized Image](sample_input/surfer-resized.jpg)
 
+## Installation of open cv
+
+https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/
+
+## Running the file 
+
+> g++ 2023201011_A2_Q3.cpp pkg-config --cflags --libs opencv4
+> ./a.out 
 
 ## References
 
